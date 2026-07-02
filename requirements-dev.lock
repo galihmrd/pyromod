@@ -8,5 +8,5 @@
 
 -e file:.
 pyaes==1.6.1
-pyrotgfork
 pysocks==1.7.1
+git+https://github.com/TelegramPlayground/PyroTGFork@dev
